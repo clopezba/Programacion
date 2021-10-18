@@ -1,0 +1,27 @@
+<ListaDepartamentos>
+  <Departamento>
+    <numDepartamento>1</numDepartamento>
+    <nombre>Finanzas</nombre>
+    <localidad>Madrid</localidad>
+  </Departamento>
+  <Departamento>
+    <numDepartamento>2</numDepartamento>
+    <nombre>Comercial</nombre>
+    <localidad>Alcobendas</localidad>
+  </Departamento>
+  <Departamento>
+    <numDepartamento>3</numDepartamento>
+    <nombre>Administración</nombre>
+    <localidad>Guadalajara</localidad>
+  </Departamento>
+  <Departamento>
+    <numDepartamento>4</numDepartamento>
+    <nombre>Recursos Humanos</nombre>
+    <localidad>Parla</localidad>
+  </Departamento>
+  <Departamento>
+    <numDepartamento>5</numDepartamento>
+    <nombre>Contabilidad</nombre>
+    <localidad>Alcorcón</localidad>
+  </Departamento>
+</ListaDepartamentos>
